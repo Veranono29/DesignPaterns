@@ -2,6 +2,7 @@ package creationalPaterns.singleton;
 
 public class ExampleSingleton {	//lazy construction
 	
+	//la vida es dura
 	private static ExampleSingleton uniqueInstance = null;
 	
 	private String pit;
